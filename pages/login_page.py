@@ -1,5 +1,5 @@
 from .base_page import BasePage
-from locators import LoginPageLocators as locators
+from .locators import LoginPageLocators as locators
 
 
 class LoginPage(BasePage):
